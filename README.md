@@ -1,4 +1,4 @@
-# JavaFX MySQL Query Generator
+# RDBMS-Simulator
 
 This Java and JavaFX application, developed using IntelliJ IDEA, provides a user-friendly interface for connecting to a MySQL database, generating queries, and viewing query results.
 
